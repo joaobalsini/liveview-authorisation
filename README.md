@@ -1,5 +1,9 @@
 # RealEstate
 
+See full article here.
+
+# Run the application
+
 To start your Phoenix server:
 
   * Install dependencies with `mix deps.get`
