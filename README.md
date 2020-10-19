@@ -1,6 +1,6 @@
 # RealEstate
 
-See full article here.
+See full article [here](https://www.leanpanda.com/blog/authentication-and-authorisation-in-phoenix-liveview/).
 
 # Run the application
 
